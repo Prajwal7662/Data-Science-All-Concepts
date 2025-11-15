@@ -268,21 +268,26 @@ Example: ChatGPT, translation, summarization.
 🔟 Model Evaluation Metrics
 
 A. Regression Metrics
-Metric	Meaning
-MAE	Average absolute error
-MSE	Mean squared error
-RMSE	Square root of MSE
-R²	Variance explained
+
+| Metric | Meaning                |
+| ------ | ---------------------- |
+| MAE    | Average absolute error |
+| MSE    | Mean squared error     |
+| RMSE   | Square root of MSE     |
+| R²     | Variance explained     |
 
 Example: RMSE = 12000 means house price predicted is off by ₹12,000 on average.
 
 B. Classification Metrics
-Metric	Use
-Accuracy	Correct predictions (%)
-Precision	Correct positives (%)
-Recall	Coverage of actual positives
-F1 Score	Harmonic mean of P & R
-ROC-AUC	Ranking ability
+
+| Metric    | Use                          |
+| --------- | ---------------------------- |
+| Accuracy  | Correct predictions (%)      |
+| Precision | Correct positives (%)        |
+| Recall    | Coverage of actual positives |
+| F1 Score  | Harmonic mean of P & R       |
+| ROC-AUC   | Ranking ability              |
+
 
 Example:
 Spam classifier with:
