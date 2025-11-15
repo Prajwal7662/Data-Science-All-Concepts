@@ -1,4 +1,5 @@
 ✅ DATA SCIENCE — ALL CONCEPTS WITH EXAMPLES (FULL GUIDE)
+
 1️⃣ What is Data Science?
 
 Data Science is the field of extracting meaningful insights from data using statistics, programming, and machine learning.
@@ -58,9 +59,11 @@ Sensors (IoT)
 
 CSV/Excel files
 
+
 Example
 
 Using Kaggle housing dataset for building a regression model.
+
 
 4️⃣ Data Cleaning
 
@@ -75,6 +78,7 @@ Incorrect types
 Outliers
 
 Category encoding
+
 
 Example
 
@@ -112,6 +116,7 @@ Polynomial features
 
 Extracting date/time
 
+
 Example
 
 From “Date of joining” → create “Experience (years)”.
@@ -133,11 +138,13 @@ p-value
 
 Confidence intervals
 
+
 Example
 
 Testing whether average salary of two departments is significantly different.
 
 8️⃣ Machine Learning Concepts
+
 A. Supervised Learning
 Regression
 
@@ -151,6 +158,7 @@ Decision Tree Regressor
 Random Forest
 
 Gradient Boosting
+
 
 Example: Predict house price.
 
@@ -171,6 +179,7 @@ Random Forest
 
 XGBoost
 
+
 Example: Predict if email is spam or not.
 
 B. Unsupervised Learning
@@ -184,6 +193,7 @@ DBSCAN
 
 Hierarchical clustering
 
+
 Example: Customer segmentation.
 
 Dimensionality Reduction
@@ -195,6 +205,7 @@ PCA
 t-SNE
 
 UMAP
+
 
 Example: Reduce 500 image features to 50 components.
 
@@ -209,6 +220,7 @@ Deep Q Networks (DQN)
 Example: Self-driving car learning to stay on road.
 
 9️⃣ Deep Learning Concepts
+
 A. Neural Networks
 
 Input layer
@@ -254,6 +266,7 @@ ViT
 Example: ChatGPT, translation, summarization.
 
 🔟 Model Evaluation Metrics
+
 A. Regression Metrics
 Metric	Meaning
 MAE	Average absolute error
@@ -282,6 +295,7 @@ Means: good at detecting spam but misses some spam emails.
 
 1️⃣1️⃣ Feature Selection Techniques
 
+
 Correlation
 
 Chi-square test
@@ -297,6 +311,7 @@ Example
 Removing features with correlation > 0.95 to avoid multicollinearity.
 
 1️⃣2️⃣ Big Data Concepts
+
 
 Tools:
 
